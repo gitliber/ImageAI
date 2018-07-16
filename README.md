@@ -1,3 +1,4 @@
+<img src="object_detected_cl.jpg" style="width: auto; height: auto; margin-left: 50px; " /> <br>
 # ObjectDetectionAI <br>
 One of the important fields of Artificial Intelligence is Computer Vision. Computer Vision is the science of computers and software systems that can recognize and understand images and scenes. Computer Vision is also composed of various aspects such as image recognition, object detection, image generation, image super-resolution and more. Object detection is probably the most profound aspect of computer vision due the number practical use cases. In this tutorial, I will briefly introduce the concept of modern object detection, challenges faced by software developers, the solution my team has provided as well as code tutorials to perform high performance object detection.
 
