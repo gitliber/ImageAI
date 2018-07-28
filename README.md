@@ -371,5 +371,7 @@ We give special thanks to <b>[Kang vcar](https://github.com/kangvcar/)</b> for h
  12. Moses & John Olafenwa, A collection of images of identifiable professionals.<br>
  <a href="https://github.com/OlafenwaMoses/IdenProf" >https://github.com/OlafenwaMoses/IdenProf</a> <br><br>
  
- 
+ <br>
+<A Href="https://www.linkedin.com/in/jairribeiro/" target="_blank"><img src="https://raw.githubusercontent.com/gitliber/Basic_self_driving_car/master/LinkProf.jpeg" style="width: auto; height: auto; " /> <br>
+</A>
  
