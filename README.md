@@ -1,5 +1,5 @@
-<img src="object_detected_cl.jpg" style="width: auto; height: auto; margin-left: 50px; " /> <br>
 # ObjectDetectionAI <br>
+<img src="ObjectDetect.gif" style="width: auto; height: auto; margin-left: 50px; " /> <br>
 One of the important fields of Artificial Intelligence is Computer Vision. Computer Vision is the science of computers and software systems that can recognize and understand images and scenes. Computer Vision is also composed of various aspects such as image recognition, object detection, image generation, image super-resolution and more. Object detection is probably the most profound aspect of computer vision due the number practical use cases. In this tutorial, I will briefly introduce the concept of modern object detection, challenges faced by software developers, the solution my team has provided as well as code tutorials to perform high performance object detection.
 
 Object detection refers to the capability of computer and software systems to locate objects in an image/scene and identify each object. Object detection has been widely used for face detection, vehicle detection, pedestrian counting, web images, security systems and driverless cars. There are many ways object detection can be used as well in many fields of practice. Like every other computer technology, a wide range of creative and amazing uses of object detection will definitely come from the efforts of computer programmers and software developers.
@@ -10,6 +10,7 @@ The breakthrough and rapid adoption of deep learning in 2012 brought into existe
 
 ImageAI is a python library that lets programmers and software developers easily integrate state-of-the-art computer vision technologies into their existing and new applications, using just few lines of code. <br><br>
 
+<img src="object_detected_cl.jpg" style="width: auto; height: auto; margin-left: 50px; " /> <br>
 <img src="MultiMe.jpeg" style="width: auto; height: auto; margin-left: 50px; " /> <br>
 
 An <b>AI Commons</b> project <a href="https://commons.specpal.science" >https://commons.specpal.science </a>
